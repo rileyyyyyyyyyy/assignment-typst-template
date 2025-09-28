@@ -7,7 +7,7 @@ A simple Typst template for my university assignment write ups.
 #### Setting up the document:
 
 ```typ
-#import "t-assignment.typ": *
+#import "src/t-assignment.typ": *
 
 #show: assignment.with(
   title: "Assignment 1",
